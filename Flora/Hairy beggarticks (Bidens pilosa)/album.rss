@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Hairy beggarticks (Bidens pilosa)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.egypt-trip.cc/Flora/Hairy%20beggarticks%20%28Bidens%20pilosa%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC05073</title>
+            <link>http://www.egypt-trip.cc/Flora/Hairy%20beggarticks%20%28Bidens%20pilosa%29/slides/DSC05073.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:43 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Hairy%20beggarticks%20%28Bidens%20pilosa%29/thumbs/DSC05073.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Hairy%20beggarticks%20%28Bidens%20pilosa%29/slides/DSC05073.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Fri, 27 Dec 2019 13:09:26 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05073.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05074</title>
+            <link>http://www.egypt-trip.cc/Flora/Hairy%20beggarticks%20%28Bidens%20pilosa%29/slides/DSC05074.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:43 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Hairy%20beggarticks%20%28Bidens%20pilosa%29/thumbs/DSC05074.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Hairy%20beggarticks%20%28Bidens%20pilosa%29/slides/DSC05074.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Fri, 27 Dec 2019 13:09:34 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05074.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05075</title>
+            <link>http://www.egypt-trip.cc/Flora/Hairy%20beggarticks%20%28Bidens%20pilosa%29/slides/DSC05075.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:43 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Hairy%20beggarticks%20%28Bidens%20pilosa%29/thumbs/DSC05075.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Hairy%20beggarticks%20%28Bidens%20pilosa%29/slides/DSC05075.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Fri, 27 Dec 2019 13:09:47 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05075.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05076</title>
+            <link>http://www.egypt-trip.cc/Flora/Hairy%20beggarticks%20%28Bidens%20pilosa%29/slides/DSC05076.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:43 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Hairy%20beggarticks%20%28Bidens%20pilosa%29/thumbs/DSC05076.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Hairy%20beggarticks%20%28Bidens%20pilosa%29/slides/DSC05076.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Fri, 27 Dec 2019 13:09:51 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05076.JPG</guid>
+        </item>
+    </channel>
+</rss>

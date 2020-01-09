@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Laughing dove (Streptopelia senegalensis)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/</jalbum:absolutePath>
+        <item>
+            <title>00DSC05200</title>
+            <link>http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/slides/00DSC05200.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:07:22 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/thumbs/00DSC05200.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/slides/00DSC05200.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 15:16:45 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/00DSC05200.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05193</title>
+            <link>http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/slides/DSC05193.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:07:22 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/thumbs/DSC05193.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/slides/DSC05193.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 15:15:56 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05193.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05194</title>
+            <link>http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/slides/DSC05194.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:07:22 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/thumbs/DSC05194.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/slides/DSC05194.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 15:16:02 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05194.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05195</title>
+            <link>http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/slides/DSC05195.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:07:22 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/thumbs/DSC05195.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/slides/DSC05195.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 15:16:09 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05195.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05197</title>
+            <link>http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/slides/DSC05197.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:07:22 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/thumbs/DSC05197.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/slides/DSC05197.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 15:16:23 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05197.JPG</guid>
+        </item>
+    </channel>
+</rss>

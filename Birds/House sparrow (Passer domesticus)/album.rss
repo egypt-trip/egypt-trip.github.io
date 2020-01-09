@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>House sparrow (Passer domesticus)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/</jalbum:absolutePath>
+        <item>
+            <title>00DSC04884</title>
+            <link>http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/slides/00DSC04884.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:07:15 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/thumbs/00DSC04884.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/slides/00DSC04884.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Dec 2019 14:00:30 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/00DSC04884.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04882</title>
+            <link>http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/slides/DSC04882.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:07:15 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/thumbs/DSC04882.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/slides/DSC04882.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Dec 2019 14:00:20 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC04882.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04883</title>
+            <link>http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/slides/DSC04883.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:07:15 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/thumbs/DSC04883.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/slides/DSC04883.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Dec 2019 14:00:25 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC04883.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04885</title>
+            <link>http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/slides/DSC04885.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:07:15 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/thumbs/DSC04885.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/slides/DSC04885.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Dec 2019 14:00:37 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC04885.JPG</guid>
+        </item>
+    </channel>
+</rss>

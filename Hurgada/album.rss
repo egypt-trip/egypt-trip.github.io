@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Hurgada</title>
+   	<link>..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.egypt-trip.cc/Hurgada/</jalbum:absolutePath>
+        <item>
+            <title>DSC04894</title>
+            <link>http://www.egypt-trip.cc/Hurgada/slides/DSC04894.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:15:04 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Hurgada/thumbs/DSC04894.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Hurgada/slides/DSC04894.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Dec 2019 16:41:45 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC04894.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04895</title>
+            <link>http://www.egypt-trip.cc/Hurgada/slides/DSC04895.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:15:04 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Hurgada/thumbs/DSC04895.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Hurgada/slides/DSC04895.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Dec 2019 16:41:52 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC04895.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04896</title>
+            <link>http://www.egypt-trip.cc/Hurgada/slides/DSC04896.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:15:04 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Hurgada/thumbs/DSC04896.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Hurgada/slides/DSC04896.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Dec 2019 16:42:06 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC04896.JPG</guid>
+        </item>
+    </channel>
+</rss>

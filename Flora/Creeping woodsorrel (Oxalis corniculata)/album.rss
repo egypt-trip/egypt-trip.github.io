@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Creeping woodsorrel (Oxalis corniculata)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.egypt-trip.cc/Flora/Creeping%20woodsorrel%20%28Oxalis%20corniculata%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC05084</title>
+            <link>http://www.egypt-trip.cc/Flora/Creeping%20woodsorrel%20%28Oxalis%20corniculata%29/slides/DSC05084.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:11:26 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Creeping%20woodsorrel%20%28Oxalis%20corniculata%29/thumbs/DSC05084.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Creeping%20woodsorrel%20%28Oxalis%20corniculata%29/slides/DSC05084.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Fri, 27 Dec 2019 13:12:53 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05084.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05085</title>
+            <link>http://www.egypt-trip.cc/Flora/Creeping%20woodsorrel%20%28Oxalis%20corniculata%29/slides/DSC05085.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:11:26 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Creeping%20woodsorrel%20%28Oxalis%20corniculata%29/thumbs/DSC05085.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Creeping%20woodsorrel%20%28Oxalis%20corniculata%29/slides/DSC05085.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Fri, 27 Dec 2019 13:12:57 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05085.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05086</title>
+            <link>http://www.egypt-trip.cc/Flora/Creeping%20woodsorrel%20%28Oxalis%20corniculata%29/slides/DSC05086.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:11:26 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Creeping%20woodsorrel%20%28Oxalis%20corniculata%29/thumbs/DSC05086.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Creeping%20woodsorrel%20%28Oxalis%20corniculata%29/slides/DSC05086.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Fri, 27 Dec 2019 13:12:57 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05086.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Lesser swine-cress  (Lepidium didymum)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.egypt-trip.cc/Flora/Lesser%20swine-cress%20%20%28Lepidium%20didymum%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC05238</title>
+            <link>http://www.egypt-trip.cc/Flora/Lesser%20swine-cress%20%20%28Lepidium%20didymum%29/slides/DSC05238.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:54 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Lesser%20swine-cress%20%20%28Lepidium%20didymum%29/thumbs/DSC05238.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Lesser%20swine-cress%20%20%28Lepidium%20didymum%29/slides/DSC05238.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 29 Dec 2019 12:54:49 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05238.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05239</title>
+            <link>http://www.egypt-trip.cc/Flora/Lesser%20swine-cress%20%20%28Lepidium%20didymum%29/slides/DSC05239.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:54 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Lesser%20swine-cress%20%20%28Lepidium%20didymum%29/thumbs/DSC05239.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Lesser%20swine-cress%20%20%28Lepidium%20didymum%29/slides/DSC05239.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 29 Dec 2019 12:55:17 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05239.JPG</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Brazilian peppertree (Schinus terebinthifolia)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC05244</title>
+            <link>http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/slides/DSC05244.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:10:10 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/thumbs/DSC05244.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/slides/DSC05244.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 29 Dec 2019 12:58:08 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05244.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05245</title>
+            <link>http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/slides/DSC05245.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:10:10 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/thumbs/DSC05245.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/slides/DSC05245.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 29 Dec 2019 12:58:15 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05245.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05246</title>
+            <link>http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/slides/DSC05246.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:10:10 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/thumbs/DSC05246.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/slides/DSC05246.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 29 Dec 2019 12:58:20 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05246.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05247</title>
+            <link>http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/slides/DSC05247.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:10:10 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/thumbs/DSC05247.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/slides/DSC05247.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sun, 29 Dec 2019 12:58:22 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05247.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05248</title>
+            <link>http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/slides/DSC05248.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:10:10 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/thumbs/DSC05248.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Brazilian%20peppertree%20%28Schinus%20terebinthifolia%29/slides/DSC05248.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sun, 29 Dec 2019 12:58:15 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05248.JPG</guid>
+        </item>
+    </channel>
+</rss>

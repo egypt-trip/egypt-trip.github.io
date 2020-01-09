@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Indian shot (Canna indica)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.egypt-trip.cc/Flora/Indian%20shot%20%28Canna%20indica%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC05046</title>
+            <link>http://www.egypt-trip.cc/Flora/Indian%20shot%20%28Canna%20indica%29/slides/DSC05046.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:49 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Indian%20shot%20%28Canna%20indica%29/thumbs/DSC05046.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Indian%20shot%20%28Canna%20indica%29/slides/DSC05046.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Fri, 27 Dec 2019 12:58:18 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05046.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05047</title>
+            <link>http://www.egypt-trip.cc/Flora/Indian%20shot%20%28Canna%20indica%29/slides/DSC05047.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:49 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Indian%20shot%20%28Canna%20indica%29/thumbs/DSC05047.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Indian%20shot%20%28Canna%20indica%29/slides/DSC05047.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Fri, 27 Dec 2019 12:58:23 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05047.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05048</title>
+            <link>http://www.egypt-trip.cc/Flora/Indian%20shot%20%28Canna%20indica%29/slides/DSC05048.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:49 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Indian%20shot%20%28Canna%20indica%29/thumbs/DSC05048.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Indian%20shot%20%28Canna%20indica%29/slides/DSC05048.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Fri, 27 Dec 2019 12:58:30 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05048.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05049</title>
+            <link>http://www.egypt-trip.cc/Flora/Indian%20shot%20%28Canna%20indica%29/slides/DSC05049.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:49 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Indian%20shot%20%28Canna%20indica%29/thumbs/DSC05049.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Indian%20shot%20%28Canna%20indica%29/slides/DSC05049.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Fri, 27 Dec 2019 12:58:36 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05049.JPG</guid>
+        </item>
+    </channel>
+</rss>

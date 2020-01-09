@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Prickly pear (Opuntia ficus-indica)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.egypt-trip.cc/Flora/Prickly%20pear%20%28Opuntia%20ficus-indica%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC04856</title>
+            <link>http://www.egypt-trip.cc/Flora/Prickly%20pear%20%28Opuntia%20ficus-indica%29/slides/DSC04856.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:13:55 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Prickly%20pear%20%28Opuntia%20ficus-indica%29/thumbs/DSC04856.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Prickly%20pear%20%28Opuntia%20ficus-indica%29/slides/DSC04856.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Dec 2019 11:38:55 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC04856.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04857</title>
+            <link>http://www.egypt-trip.cc/Flora/Prickly%20pear%20%28Opuntia%20ficus-indica%29/slides/DSC04857.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:13:55 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Prickly%20pear%20%28Opuntia%20ficus-indica%29/thumbs/DSC04857.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Prickly%20pear%20%28Opuntia%20ficus-indica%29/slides/DSC04857.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Dec 2019 11:39:08 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC04857.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04858</title>
+            <link>http://www.egypt-trip.cc/Flora/Prickly%20pear%20%28Opuntia%20ficus-indica%29/slides/DSC04858.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:13:55 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Prickly%20pear%20%28Opuntia%20ficus-indica%29/thumbs/DSC04858.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Prickly%20pear%20%28Opuntia%20ficus-indica%29/slides/DSC04858.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Dec 2019 11:39:32 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC04858.JPG</guid>
+        </item>
+        <item>
+            <title>DSC04859</title>
+            <link>http://www.egypt-trip.cc/Flora/Prickly%20pear%20%28Opuntia%20ficus-indica%29/slides/DSC04859.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:13:55 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Prickly%20pear%20%28Opuntia%20ficus-indica%29/thumbs/DSC04859.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Prickly%20pear%20%28Opuntia%20ficus-indica%29/slides/DSC04859.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Wed, 25 Dec 2019 11:39:32 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC04859.JPG</guid>
+        </item>
+    </channel>
+</rss>

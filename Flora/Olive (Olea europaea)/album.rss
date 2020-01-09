@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Olive (Olea europaea)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.egypt-trip.cc/Flora/Olive%20%28Olea%20europaea%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC05137</title>
+            <link>http://www.egypt-trip.cc/Flora/Olive%20%28Olea%20europaea%29/slides/DSC05137.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:13:28 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Olive%20%28Olea%20europaea%29/thumbs/DSC05137.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Olive%20%28Olea%20europaea%29/slides/DSC05137.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 12:18:13 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05137.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05138</title>
+            <link>http://www.egypt-trip.cc/Flora/Olive%20%28Olea%20europaea%29/slides/DSC05138.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:13:28 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Olive%20%28Olea%20europaea%29/thumbs/DSC05138.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Olive%20%28Olea%20europaea%29/slides/DSC05138.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 12:18:19 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05138.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05139</title>
+            <link>http://www.egypt-trip.cc/Flora/Olive%20%28Olea%20europaea%29/slides/DSC05139.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:13:28 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Olive%20%28Olea%20europaea%29/thumbs/DSC05139.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Olive%20%28Olea%20europaea%29/slides/DSC05139.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 12:18:24 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05139.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05140</title>
+            <link>http://www.egypt-trip.cc/Flora/Olive%20%28Olea%20europaea%29/slides/DSC05140.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:13:28 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Olive%20%28Olea%20europaea%29/thumbs/DSC05140.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Olive%20%28Olea%20europaea%29/slides/DSC05140.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 12:18:35 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05140.JPG</guid>
+        </item>
+    </channel>
+</rss>

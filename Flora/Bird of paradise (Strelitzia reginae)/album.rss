@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Bird of paradise (Strelitzia reginae)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC05176</title>
+            <link>http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/slides/DSC05176.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:09:51 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/thumbs/DSC05176.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/slides/DSC05176.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 12:36:29 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05176.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05177</title>
+            <link>http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/slides/DSC05177.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:09:51 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/thumbs/DSC05177.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/slides/DSC05177.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 12:36:39 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05177.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05178</title>
+            <link>http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/slides/DSC05178.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:09:51 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/thumbs/DSC05178.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/slides/DSC05178.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 12:36:45 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05178.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05179</title>
+            <link>http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/slides/DSC05179.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:09:51 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/thumbs/DSC05179.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/slides/DSC05179.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 12:36:51 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05179.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05180</title>
+            <link>http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/slides/DSC05180.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:09:51 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/thumbs/DSC05180.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Bird%20of%20paradise%20%28Strelitzia%20reginae%29/slides/DSC05180.JPG" width="1680" height="1260"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 12:37:12 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05180.JPG</guid>
+        </item>
+    </channel>
+</rss>

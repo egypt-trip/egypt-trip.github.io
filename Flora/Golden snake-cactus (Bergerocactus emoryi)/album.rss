@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Golden snake-cactus (Bergerocactus emoryi)</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://www.egypt-trip.cc/Flora/Golden%20snake-cactus%20%28Bergerocactus%20emoryi%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC05145</title>
+            <link>http://www.egypt-trip.cc/Flora/Golden%20snake-cactus%20%28Bergerocactus%20emoryi%29/slides/DSC05145.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:20 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Golden%20snake-cactus%20%28Bergerocactus%20emoryi%29/thumbs/DSC05145.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Golden%20snake-cactus%20%28Bergerocactus%20emoryi%29/slides/DSC05145.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 12:22:35 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05145.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05146</title>
+            <link>http://www.egypt-trip.cc/Flora/Golden%20snake-cactus%20%28Bergerocactus%20emoryi%29/slides/DSC05146.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:20 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Golden%20snake-cactus%20%28Bergerocactus%20emoryi%29/thumbs/DSC05146.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Golden%20snake-cactus%20%28Bergerocactus%20emoryi%29/slides/DSC05146.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 12:22:55 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05146.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05147</title>
+            <link>http://www.egypt-trip.cc/Flora/Golden%20snake-cactus%20%28Bergerocactus%20emoryi%29/slides/DSC05147.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:20 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Golden%20snake-cactus%20%28Bergerocactus%20emoryi%29/thumbs/DSC05147.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Golden%20snake-cactus%20%28Bergerocactus%20emoryi%29/slides/DSC05147.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 12:23:00 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05147.JPG</guid>
+        </item>
+        <item>
+            <title>DSC05148</title>
+            <link>http://www.egypt-trip.cc/Flora/Golden%20snake-cactus%20%28Bergerocactus%20emoryi%29/slides/DSC05148.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:12:20 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://www.egypt-trip.cc/Flora/Golden%20snake-cactus%20%28Bergerocactus%20emoryi%29/thumbs/DSC05148.JPG" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Golden%20snake-cactus%20%28Bergerocactus%20emoryi%29/slides/DSC05148.JPG" width="1260" height="1680"/>
+            <jalbum:exif originalDate="Sat, 28 Dec 2019 12:23:04 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC05148.JPG</guid>
+        </item>
+    </channel>
+</rss>
