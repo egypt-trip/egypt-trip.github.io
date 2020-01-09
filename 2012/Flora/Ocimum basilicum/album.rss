@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ocimum basilicum</title>
+   	<link>../../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/</jalbum:absolutePath>
+        <item>
+            <title>DSC00133</title>
+            <link>http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/slides/DSC00133.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:19 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/thumbs/DSC00133.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/slides/DSC00133.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 17:59:30 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00133.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00519</title>
+            <link>http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/slides/DSC00519.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:19 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/thumbs/DSC00519.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/slides/DSC00519.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Thu, 19 Jan 2012 14:12:34 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00519.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00520</title>
+            <link>http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/slides/DSC00520.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:19 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/thumbs/DSC00520.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/slides/DSC00520.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Thu, 19 Jan 2012 14:12:47 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00520.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00523</title>
+            <link>http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/slides/DSC00523.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:19 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/thumbs/DSC00523.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/slides/DSC00523.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Thu, 19 Jan 2012 14:13:18 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00523.JPG</guid>
+        </item>
+    </channel>
+</rss>

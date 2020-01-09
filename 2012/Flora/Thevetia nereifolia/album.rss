@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Thevetia nereifolia</title>
+   	<link>../../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/</jalbum:absolutePath>
+        <item>
+            <title>DSC00106</title>
+            <link>http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/slides/DSC00106.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/thumbs/DSC00106.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/slides/DSC00106.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 16:36:33 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00106.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00107</title>
+            <link>http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/slides/DSC00107.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/thumbs/DSC00107.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/slides/DSC00107.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 16:36:38 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00107.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00108</title>
+            <link>http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/slides/DSC00108.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/thumbs/DSC00108.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/slides/DSC00108.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 16:36:43 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00108.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00110</title>
+            <link>http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/slides/DSC00110.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/thumbs/DSC00110.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/slides/DSC00110.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 16:37:03 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00110.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00111</title>
+            <link>http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/slides/DSC00111.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:21 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/thumbs/DSC00111.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/slides/DSC00111.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 16:37:11 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00111.JPG</guid>
+        </item>
+    </channel>
+</rss>

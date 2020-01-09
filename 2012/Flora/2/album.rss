@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2</title>
+   	<link>../../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://egypt-trip.cc/2012/Flora/2/</jalbum:absolutePath>
+        <item>
+            <title>DSC00089</title>
+            <link>http://egypt-trip.cc/2012/Flora/2/slides/DSC00089.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:10 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/2/thumbs/DSC00089.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/2/slides/DSC00089.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 14:49:59 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00089.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00090</title>
+            <link>http://egypt-trip.cc/2012/Flora/2/slides/DSC00090.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:10 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/2/thumbs/DSC00090.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/2/slides/DSC00090.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 14:50:13 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00090.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00093</title>
+            <link>http://egypt-trip.cc/2012/Flora/2/slides/DSC00093.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:10 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/2/thumbs/DSC00093.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/2/slides/DSC00093.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 14:50:31 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00093.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00094</title>
+            <link>http://egypt-trip.cc/2012/Flora/2/slides/DSC00094.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:10 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/2/thumbs/DSC00094.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/2/slides/DSC00094.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 14:50:37 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00094.JPG</guid>
+        </item>
+    </channel>
+</rss>

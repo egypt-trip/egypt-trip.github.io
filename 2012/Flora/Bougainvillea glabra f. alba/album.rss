@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Bougainvillea glabra f. alba</title>
+   	<link>../../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://egypt-trip.cc/2012/Flora/Bougainvillea%20glabra%20f.%20alba/</jalbum:absolutePath>
+        <item>
+            <title>DSC00001</title>
+            <link>http://egypt-trip.cc/2012/Flora/Bougainvillea%20glabra%20f.%20alba/slides/DSC00001.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:12 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Bougainvillea%20glabra%20f.%20alba/thumbs/DSC00001.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Bougainvillea%20glabra%20f.%20alba/slides/DSC00001.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 11:54:05 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00001.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00002</title>
+            <link>http://egypt-trip.cc/2012/Flora/Bougainvillea%20glabra%20f.%20alba/slides/DSC00002.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:49:12 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Bougainvillea%20glabra%20f.%20alba/thumbs/DSC00002.JPG" width="320" height="240"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Bougainvillea%20glabra%20f.%20alba/slides/DSC00002.JPG" width="1000" height="750"/>
+            <jalbum:exif originalDate="Mon, 16 Jan 2012 11:54:14 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00002.JPG</guid>
+        </item>
+    </channel>
+</rss>
