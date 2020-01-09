@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>album</title>
+   	<link>..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://egypt-trip.cc/album/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/album.rss" title="2012" thumbnail="http://egypt-trip.cc/album/2012/thumbs/pl-folderthumb1.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/Birds/album.rss" title="Birds" thumbnail="http://egypt-trip.cc/album/Birds/thumbs/pl-folderthumb1.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/Flora/album.rss" title="Flora" thumbnail="http://egypt-trip.cc/album/Flora/thumbs/pl-folderthumb1.jpg" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/Hurgada/album.rss" title="Hurgada" thumbnail="http://egypt-trip.cc/album/Hurgada/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/Karnak%20temple/album.rss" title="Karnak temple" thumbnail="http://egypt-trip.cc/album/Karnak%20temple/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/Nile%20river/album.rss" title="Nile river" thumbnail="http://egypt-trip.cc/album/Nile%20river/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/Snorkling%20and%20Fishing/album.rss" title="Snorkling and Fishing" thumbnail="http://egypt-trip.cc/album/Snorkling%20and%20Fishing/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+        <item>
+            <title>pl-folderthumb1</title>
+            <link>http://egypt-trip.cc/album/slides/pl-folderthumb1.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/thumbs/pl-folderthumb1.jpg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/slides/pl-folderthumb1.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb1.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb2</title>
+            <link>http://egypt-trip.cc/album/slides/pl-folderthumb2.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/thumbs/pl-folderthumb2.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/slides/pl-folderthumb2.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb2.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb3</title>
+            <link>http://egypt-trip.cc/album/slides/pl-folderthumb3.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/thumbs/pl-folderthumb3.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/slides/pl-folderthumb3.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb3.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb4</title>
+            <link>http://egypt-trip.cc/album/slides/pl-folderthumb4.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/thumbs/pl-folderthumb4.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/slides/pl-folderthumb4.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb4.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb5</title>
+            <link>http://egypt-trip.cc/album/slides/pl-folderthumb5.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/thumbs/pl-folderthumb5.jpg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/slides/pl-folderthumb5.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb5.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb6</title>
+            <link>http://egypt-trip.cc/album/slides/pl-folderthumb6.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/thumbs/pl-folderthumb6.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/slides/pl-folderthumb6.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb6.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb7</title>
+            <link>http://egypt-trip.cc/album/slides/pl-folderthumb7.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/thumbs/pl-folderthumb7.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/slides/pl-folderthumb7.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb7.jpg</guid>
+        </item>
+        <item>
+            <title>pl-theme</title>
+            <link>http://egypt-trip.cc/album/slides/pl-theme.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/thumbs/pl-theme.jpg" width="500" height="250"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/slides/pl-theme.jpg" width="1680" height="840"/>
+            <guid isPermaLink="false">slides/pl-theme.jpg</guid>
+        </item>
+    </channel>
+</rss>

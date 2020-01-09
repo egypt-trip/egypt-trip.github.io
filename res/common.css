@@ -1,4 +1,4 @@
-/* jAlbum 19.2 with Pluto 18.1, Light style, album creation date 1/9/20, 7:57 PM */
+/* jAlbum 19.2 with Pluto 18.1, Light style, album creation date 1/9/20, 8:29 PM */
 html, body {
 	height: 100%;
 	margin: 0px;
@@ -37,7 +37,7 @@ video {
 }
 .pl-noparanav > div {
 	margin: 0px auto;
-	max-width: 1270px;
+	max-width: 1620px;
 	min-height: 32px;
 	padding: 5px;
 }
@@ -160,8 +160,36 @@ video {
 	padding: 15px 0px 0px;
 	min-height: 100%;
 }
+.pl-infotxt {
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	text-shadow: none;
+	text-align: center;
+	margin: 0px auto 15px;
+	max-width: 1200px;
+	padding: 0px 10px;
+}
+.pl-infotxt a {
+	text-decoration: underline;
+}
+.pl-infotxtbottom {
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	text-shadow: none;
+	text-align: center;
+	margin: 0px auto 10px;
+	max-width: 1200px;
+	padding: 0px 10px;
+}
+.pl-infotxtbottom a {
+	text-decoration: underline;
+}
 .pl-thumbbox {
-	max-width: 1250px;
+	max-width: 1600px;
 	margin: 0 auto 10px;
 	padding: 0px 43px;
 }
@@ -268,22 +296,6 @@ video {
 }
 .pl-credits a {
 	text-decoration: underline;
-}
-#pl-pagetop {
-	background-color: #bbbbbb;
-	position: fixed;
-	bottom: 40px;
-	left: 10px;
-	opacity: 0.75;
-	display: none;
-}
-#pl-pagetop img {
-	width: 32px;
-	height: 32px;
-	padding: 10px 5px 5px;
-}
-#pl-pagetop:hover {
-	cursor: pointer;
 }
 .pl-slidetitle {
 	font-size: 14px;

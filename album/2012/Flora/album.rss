@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Flora</title>
+   	<link>../../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://egypt-trip.cc/album/2012/Flora/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/1/album.rss" title="1" thumbnail="http://egypt-trip.cc/album/2012/Flora/1/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/2/album.rss" title="2" thumbnail="http://egypt-trip.cc/album/2012/Flora/2/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/Alhagi%20maurorum/album.rss" title="Alhagi maurorum" thumbnail="http://egypt-trip.cc/album/2012/Flora/Alhagi%20maurorum/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/Bougainvillea%20glabra%20f.%20alba/album.rss" title="Bougainvillea glabra f. alba" thumbnail="http://egypt-trip.cc/album/2012/Flora/Bougainvillea%20glabra%20f.%20alba/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/Calystegia%20soldanella/album.rss" title="Calystegia soldanella" thumbnail="http://egypt-trip.cc/album/2012/Flora/Calystegia%20soldanella/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/Carissa%20macrocarpa/album.rss" title="Carissa macrocarpa" thumbnail="http://egypt-trip.cc/album/2012/Flora/Carissa%20macrocarpa/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/Catharanthus%20roseus/album.rss" title="Catharanthus roseus" thumbnail="http://egypt-trip.cc/album/2012/Flora/Catharanthus%20roseus/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/Euphorbia%20lactea/album.rss" title="Euphorbia lactea" thumbnail="http://egypt-trip.cc/album/2012/Flora/Euphorbia%20lactea/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/Hibiscus%20rosa-sinensis/album.rss" title="Hibiscus rosa-sinensis" thumbnail="http://egypt-trip.cc/album/2012/Flora/Hibiscus%20rosa-sinensis/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/Lampranthus%20glaucus/album.rss" title="Lampranthus glaucus" thumbnail="http://egypt-trip.cc/album/2012/Flora/Lampranthus%20glaucus/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/Ocimum%20basilicum/album.rss" title="Ocimum basilicum" thumbnail="http://egypt-trip.cc/album/2012/Flora/Ocimum%20basilicum/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/Spathodea%20campanulata/album.rss" title="Spathodea campanulata" thumbnail="http://egypt-trip.cc/album/2012/Flora/Spathodea%20campanulata/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/Thevetia%20nereifolia/album.rss" title="Thevetia nereifolia" thumbnail="http://egypt-trip.cc/album/2012/Flora/Thevetia%20nereifolia/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/2012/Flora/Zygophyllum%20coccineum/album.rss" title="Zygophyllum coccineum" thumbnail="http://egypt-trip.cc/album/2012/Flora/Zygophyllum%20coccineum/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+        <item>
+            <title>pl-folderthumb1</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb1.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb1.jpg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb1.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb1.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb2</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb2.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb2.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb2.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb2.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb3</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb3.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb3.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb3.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb3.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb4</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb4.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb4.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb4.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb4.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb5</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb5.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb5.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb5.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb5.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb6</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb6.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb6.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb6.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb6.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb7</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb7.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb7.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb7.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb7.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb8</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb8.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb8.jpg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb8.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb8.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb9</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb9.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb9.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb9.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb9.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb10</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb10.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb10.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb10.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb10.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb11</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb11.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb11.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb11.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb11.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb12</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb12.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb12.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb12.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb12.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb13</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb13.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb13.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb13.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb13.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb14</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb14.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-folderthumb14.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-folderthumb14.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb14.jpg</guid>
+        </item>
+        <item>
+            <title>pl-theme</title>
+            <link>http://egypt-trip.cc/album/2012/Flora/slides/pl-theme.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:40 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/2012/Flora/thumbs/pl-theme.jpg" width="500" height="250"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/2012/Flora/slides/pl-theme.jpg" width="1680" height="840"/>
+            <guid isPermaLink="false">slides/pl-theme.jpg</guid>
+        </item>
+    </channel>
+</rss>

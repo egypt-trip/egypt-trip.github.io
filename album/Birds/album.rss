@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Birds</title>
+   	<link>../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://egypt-trip.cc/album/Birds/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/Birds/Common%20ostrich%20%28Struthio%20camelus%29/album.rss" title="Common ostrich (Struthio camelus)" thumbnail="http://egypt-trip.cc/album/Birds/Common%20ostrich%20%28Struthio%20camelus%29/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/Birds/Dalmatian%20pelican%20%28Pelecanus%20crispus%29/album.rss" title="Dalmatian pelican (Pelecanus crispus)" thumbnail="http://egypt-trip.cc/album/Birds/Dalmatian%20pelican%20%28Pelecanus%20crispus%29/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/Birds/House%20sparrow%20%28Passer%20domesticus%29/album.rss" title="House sparrow (Passer domesticus)" thumbnail="http://egypt-trip.cc/album/Birds/House%20sparrow%20%28Passer%20domesticus%29/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/album.rss" title="Laughing dove (Streptopelia senegalensis)" thumbnail="http://egypt-trip.cc/album/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+    	<jalbum:link rel="sub" href="http://egypt-trip.cc/album/Birds/%D0%A1attle%20egret%20%28Bubulcus%20ibis%29/album.rss" title="Сattle egret (Bubulcus ibis)" thumbnail="http://egypt-trip.cc/album/Birds/%D0%A1attle%20egret%20%28Bubulcus%20ibis%29/thumbs/pl-theme.jpg" thumbnailWidth="500" thumbnailHeight="250" />
+        <item>
+            <title>pl-folderthumb1</title>
+            <link>http://egypt-trip.cc/album/Birds/slides/pl-folderthumb1.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:57 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/Birds/thumbs/pl-folderthumb1.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/Birds/slides/pl-folderthumb1.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb1.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb2</title>
+            <link>http://egypt-trip.cc/album/Birds/slides/pl-folderthumb2.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:57 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/Birds/thumbs/pl-folderthumb2.jpg" width="270" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/Birds/slides/pl-folderthumb2.jpg" width="810" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb2.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb3</title>
+            <link>http://egypt-trip.cc/album/Birds/slides/pl-folderthumb3.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:57 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/Birds/thumbs/pl-folderthumb3.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/Birds/slides/pl-folderthumb3.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb3.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb4</title>
+            <link>http://egypt-trip.cc/album/Birds/slides/pl-folderthumb4.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:57 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/Birds/thumbs/pl-folderthumb4.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/Birds/slides/pl-folderthumb4.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb4.jpg</guid>
+        </item>
+        <item>
+            <title>pl-folderthumb5</title>
+            <link>http://egypt-trip.cc/album/Birds/slides/pl-folderthumb5.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:57 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/Birds/thumbs/pl-folderthumb5.jpg" width="480" height="360"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/Birds/slides/pl-folderthumb5.jpg" width="1440" height="1080"/>
+            <guid isPermaLink="false">slides/pl-folderthumb5.jpg</guid>
+        </item>
+        <item>
+            <title>pl-theme</title>
+            <link>http://egypt-trip.cc/album/Birds/slides/pl-theme.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:21:57 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/Birds/thumbs/pl-theme.jpg" width="500" height="250"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/Birds/slides/pl-theme.jpg" width="1680" height="840"/>
+            <guid isPermaLink="false">slides/pl-theme.jpg</guid>
+        </item>
+    </channel>
+</rss>

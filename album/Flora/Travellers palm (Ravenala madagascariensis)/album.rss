@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Travellers palm (Ravenala madagascariensis)</title>
+   	<link>../../..</link>
+        <generator>jAlbum 19.2</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://egypt-trip.cc/album/Flora/Travellers%20palm%20%28Ravenala%20madagascariensis%29/</jalbum:absolutePath>
+        <item>
+            <title>pl-theme</title>
+            <link>http://egypt-trip.cc/album/Flora/Travellers%20palm%20%28Ravenala%20madagascariensis%29/slides/pl-theme.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 20:23:23 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://egypt-trip.cc/album/Flora/Travellers%20palm%20%28Ravenala%20madagascariensis%29/thumbs/pl-theme.jpg" width="500" height="250"/>
+            <media:content type="image/jpeg" url="http://egypt-trip.cc/album/Flora/Travellers%20palm%20%28Ravenala%20madagascariensis%29/slides/pl-theme.jpg" width="1680" height="840"/>
+            <guid isPermaLink="false">slides/pl-theme.jpg</guid>
+        </item>
+    </channel>
+</rss>
