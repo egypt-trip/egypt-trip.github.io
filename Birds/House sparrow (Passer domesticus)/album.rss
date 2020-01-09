@@ -49,7 +49,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/thumbs/DSC04885.JPG" width="480" height="360"/>
             <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/slides/DSC04885.JPG" width="1680" height="1260"/>
-            <jalbum:exif originalDate="Wed, 25 Dec 2019 14:00:37 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Wed, 25 Dec 2019 14:00:20 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/DSC04885.JPG</guid>
         </item>
     </channel>

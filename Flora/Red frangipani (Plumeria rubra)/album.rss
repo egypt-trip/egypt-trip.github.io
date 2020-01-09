@@ -49,7 +49,7 @@
             <media:description type="html">                               </media:description>
             <media:thumbnail url="http://www.egypt-trip.cc/Flora/Red%20frangipani%20%28Plumeria%20rubra%29/thumbs/DSC05255.JPG" width="480" height="360"/>
             <media:content type="image/jpeg" url="http://www.egypt-trip.cc/Flora/Red%20frangipani%20%28Plumeria%20rubra%29/slides/DSC05255.JPG" width="1680" height="1260"/>
-            <jalbum:exif originalDate="Mon, 30 Dec 2019 12:52:30 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <jalbum:exif originalDate="Mon, 30 Dec 2019 12:52:05 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/DSC05255.JPG</guid>
         </item>
     </channel>
