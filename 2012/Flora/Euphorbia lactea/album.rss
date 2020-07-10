@@ -5,28 +5,28 @@
     <channel>
         <title>Euphorbia lactea</title>
    	<link>../../..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/</jalbum:absolutePath>
+        <jalbum:absolutePath>https://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/</jalbum:absolutePath>
         <item>
             <title>DSC00129</title>
-            <link>http://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/slides/DSC00129.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:12:41 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/slides/DSC00129.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/thumbs/DSC00129.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/slides/DSC00129.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/thumbs/DSC00129.JPG" width="240" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/slides/DSC00129.JPG" width="563" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 16:53:45 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00129.JPG</guid>
         </item>
         <item>
             <title>DSC00130</title>
-            <link>http://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/slides/DSC00130.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:12:41 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/slides/DSC00130.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/thumbs/DSC00130.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/slides/DSC00130.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/thumbs/DSC00130.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/slides/DSC00130.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 16:54:07 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00130.JPG</guid>
         </item>

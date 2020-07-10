@@ -5,28 +5,28 @@
     <channel>
         <title>Lampranthus glaucus</title>
    	<link>../../..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/</jalbum:absolutePath>
+        <jalbum:absolutePath>https://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/</jalbum:absolutePath>
         <item>
             <title>DSC00025</title>
-            <link>http://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/slides/DSC00025.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:12:43 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/slides/DSC00025.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/thumbs/DSC00025.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/slides/DSC00025.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/thumbs/DSC00025.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/slides/DSC00025.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 12:12:02 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00025.JPG</guid>
         </item>
         <item>
             <title>DSC00026</title>
-            <link>http://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/slides/DSC00026.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:12:43 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/slides/DSC00026.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/thumbs/DSC00026.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/slides/DSC00026.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/thumbs/DSC00026.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/slides/DSC00026.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 12:12:11 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00026.JPG</guid>
         </item>

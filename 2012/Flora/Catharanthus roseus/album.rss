@@ -5,28 +5,28 @@
     <channel>
         <title>Catharanthus roseus</title>
    	<link>../../..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/</jalbum:absolutePath>
+        <jalbum:absolutePath>https://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/</jalbum:absolutePath>
         <item>
             <title>DSC00035</title>
-            <link>http://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/slides/DSC00035.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:12:39 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/slides/DSC00035.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/thumbs/DSC00035.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/slides/DSC00035.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/thumbs/DSC00035.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/slides/DSC00035.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 11:11:18 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00035.JPG</guid>
         </item>
         <item>
             <title>DSC00047</title>
-            <link>http://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/slides/DSC00047.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:12:39 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/slides/DSC00047.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/thumbs/DSC00047.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/slides/DSC00047.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/thumbs/DSC00047.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/slides/DSC00047.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 11:25:21 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00047.JPG</guid>
         </item>

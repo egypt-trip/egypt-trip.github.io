@@ -5,27 +5,27 @@
     <channel>
         <title>Pano</title>
    	<link>../../..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://egypt-trip.cc/2012/Canyon/Pano/</jalbum:absolutePath>
+        <jalbum:absolutePath>https://egypt-trip.cc/2012/Canyon/Pano/</jalbum:absolutePath>
         <item>
             <title>desert_1_pano</title>
-            <link>http://egypt-trip.cc/2012/Canyon/Pano/slides/desert_1_pano.jpg</link>
-            <pubDate>Sat, 11 Jan 2020 17:12:15 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Canyon/Pano/slides/desert_1_pano.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:14 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Canyon/Pano/thumbs/desert_1_pano.jpg" width="500" height="65"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Canyon/Pano/slides/desert_1_pano.jpg" width="1680" height="220"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Canyon/Pano/thumbs/desert_1_pano.jpg" width="480" height="192"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Canyon/Pano/slides/desert_1_pano.jpg" width="1600" height="209"/>
             <guid isPermaLink="false">slides/desert_1_pano.jpg</guid>
         </item>
         <item>
             <title>desert_canyon_1_pano</title>
-            <link>http://egypt-trip.cc/2012/Canyon/Pano/slides/desert_canyon_1_pano.jpg</link>
-            <pubDate>Sat, 11 Jan 2020 17:12:15 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Canyon/Pano/slides/desert_canyon_1_pano.jpg</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:14 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Canyon/Pano/thumbs/desert_canyon_1_pano.jpg" width="500" height="81"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Canyon/Pano/slides/desert_canyon_1_pano.jpg" width="1680" height="272"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Canyon/Pano/thumbs/desert_canyon_1_pano.jpg" width="480" height="192"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Canyon/Pano/slides/desert_canyon_1_pano.jpg" width="1600" height="259"/>
             <guid isPermaLink="false">slides/desert_canyon_1_pano.jpg</guid>
         </item>
     </channel>

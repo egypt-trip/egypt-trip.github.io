@@ -15,8 +15,8 @@ global: {
 	language:'zz',
 	padding:0,
 	minBoxWidth:300,
-	maxWidth:1680,
-	maxHeight:1680,
+	maxWidth:1600,
+	maxHeight:750,
 	overlayOpacity:1.0,
 	resizeTime:0.7,
 	transitionTime:0.6,
@@ -38,6 +38,7 @@ global: {
 	addVideoThumb:false
 },
 mobile: {
+	padding:0,
 	minBoxWidth:140,
 	showItemNumber:false,
 	strictCentering:false,

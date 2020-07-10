@@ -5,13 +5,13 @@
     <channel>
         <title>Birds</title>
    	<link>..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://egypt-trip.cc/Birds/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/Birds/Common%20ostrich%20%28Struthio%20camelus%29/album.rss" title="Common ostrich (Struthio camelus)" thumbnail="http://egypt-trip.cc/Birds/Common%20ostrich%20%28Struthio%20camelus%29/thumbs/00DSC04909.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/Birds/Dalmatian%20pelican%20%28Pelecanus%20crispus%29/album.rss" title="Dalmatian pelican (Pelecanus crispus)" thumbnail="http://egypt-trip.cc/Birds/Dalmatian%20pelican%20%28Pelecanus%20crispus%29/thumbs/00DSC04890.JPG" thumbnailWidth="270" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/album.rss" title="House sparrow (Passer domesticus)" thumbnail="http://egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/thumbs/00DSC04884.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/album.rss" title="Laughing dove (Streptopelia senegalensis)" thumbnail="http://egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/thumbs/00DSC05200.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/Birds/%D0%A1attle%20egret%20%28Bubulcus%20ibis%29/album.rss" title="Сattle egret (Bubulcus ibis)" thumbnail="http://egypt-trip.cc/Birds/%D0%A1attle%20egret%20%28Bubulcus%20ibis%29/thumbs/00DSC05053.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+        <jalbum:absolutePath>https://egypt-trip.cc/Birds/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Birds/Common%20ostrich%20%28Struthio%20camelus%29/album.rss" title="Common ostrich (Struthio camelus)" thumbnail="https://egypt-trip.cc/Birds/Common%20ostrich%20%28Struthio%20camelus%29/thumbs/00DSC04909.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Birds/Dalmatian%20pelican%20%28Pelecanus%20crispus%29/album.rss" title="Dalmatian pelican (Pelecanus crispus)" thumbnail="https://egypt-trip.cc/Birds/Dalmatian%20pelican%20%28Pelecanus%20crispus%29/thumbs/00DSC04890.JPG" thumbnailWidth="240" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/album.rss" title="House sparrow (Passer domesticus)" thumbnail="https://egypt-trip.cc/Birds/House%20sparrow%20%28Passer%20domesticus%29/thumbs/00DSC04884.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/album.rss" title="Laughing dove (Streptopelia senegalensis)" thumbnail="https://egypt-trip.cc/Birds/Laughing%20dove%20%28Streptopelia%20senegalensis%29/thumbs/00DSC05200.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Birds/%D0%A1attle%20egret%20%28Bubulcus%20ibis%29/album.rss" title="Сattle egret (Bubulcus ibis)" thumbnail="https://egypt-trip.cc/Birds/%D0%A1attle%20egret%20%28Bubulcus%20ibis%29/thumbs/00DSC05053.JPG" thumbnailWidth="427" thumbnailHeight="320" />
     </channel>
 </rss>

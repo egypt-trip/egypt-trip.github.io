@@ -5,17 +5,17 @@
     <channel>
         <title>Common fig (Ficus carica)</title>
    	<link>../..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://egypt-trip.cc/Flora/Common%20fig%20%28Ficus%20carica%29/</jalbum:absolutePath>
+        <jalbum:absolutePath>https://egypt-trip.cc/Flora/Common%20fig%20%28Ficus%20carica%29/</jalbum:absolutePath>
         <item>
             <title>DSC05091</title>
-            <link>http://egypt-trip.cc/Flora/Common%20fig%20%28Ficus%20carica%29/slides/DSC05091.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:16:45 +0200</pubDate>
+            <link>https://egypt-trip.cc/Flora/Common%20fig%20%28Ficus%20carica%29/slides/DSC05091.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 18:00:45 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/Flora/Common%20fig%20%28Ficus%20carica%29/thumbs/DSC05091.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/Flora/Common%20fig%20%28Ficus%20carica%29/slides/DSC05091.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/Flora/Common%20fig%20%28Ficus%20carica%29/thumbs/DSC05091.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/Flora/Common%20fig%20%28Ficus%20carica%29/slides/DSC05091.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Fri, 27 Dec 2019 13:17:12 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/DSC05091.JPG</guid>
         </item>

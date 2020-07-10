@@ -5,163 +5,163 @@
     <channel>
         <title>Flora</title>
    	<link>../..</link>
-        <generator>jAlbum 19.2</generator>
+        <generator>jAlbum 20.2</generator>
    		<description></description>
-        <jalbum:absolutePath>http://egypt-trip.cc/2012/Flora/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/1/album.rss" title="1" thumbnail="http://egypt-trip.cc/2012/Flora/1/thumbs/DSC00123.JPG" thumbnailWidth="270" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/2/album.rss" title="2" thumbnail="http://egypt-trip.cc/2012/Flora/2/thumbs/DSC00090.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/Alhagi%20maurorum/album.rss" title="Alhagi maurorum" thumbnail="http://egypt-trip.cc/2012/Flora/Alhagi%20maurorum/thumbs/DSC00510.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/Bougainvillea%20glabra%20f.%20alba/album.rss" title="Bougainvillea glabra f. alba" thumbnail="http://egypt-trip.cc/2012/Flora/Bougainvillea%20glabra%20f.%20alba/thumbs/DSC00002.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/Calystegia%20soldanella/album.rss" title="Calystegia soldanella" thumbnail="http://egypt-trip.cc/2012/Flora/Calystegia%20soldanella/thumbs/DSC00119.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/Carissa%20macrocarpa/album.rss" title="Carissa macrocarpa" thumbnail="http://egypt-trip.cc/2012/Flora/Carissa%20macrocarpa/thumbs/DSC00126.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/album.rss" title="Catharanthus roseus" thumbnail="http://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/thumbs/DSC00047.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/album.rss" title="Euphorbia lactea" thumbnail="http://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/thumbs/DSC00129.JPG" thumbnailWidth="270" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/Hibiscus%20rosa-sinensis/album.rss" title="Hibiscus rosa-sinensis" thumbnail="http://egypt-trip.cc/2012/Flora/Hibiscus%20rosa-sinensis/thumbs/DSC00007.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/album.rss" title="Lampranthus glaucus" thumbnail="http://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/thumbs/DSC00026.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/album.rss" title="Ocimum basilicum" thumbnail="http://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/thumbs/DSC00519.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/Spathodea%20campanulata/album.rss" title="Spathodea campanulata" thumbnail="http://egypt-trip.cc/2012/Flora/Spathodea%20campanulata/thumbs/DSC00098.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/album.rss" title="Thevetia nereifolia" thumbnail="http://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/thumbs/DSC00111.JPG" thumbnailWidth="480" thumbnailHeight="360" />
-    	<jalbum:link rel="sub" href="http://egypt-trip.cc/2012/Flora/Zygophyllum%20coccineum/album.rss" title="Zygophyllum coccineum" thumbnail="http://egypt-trip.cc/2012/Flora/Zygophyllum%20coccineum/thumbs/DSC00116.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+        <jalbum:absolutePath>https://egypt-trip.cc/2012/Flora/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/1/album.rss" title="1" thumbnail="https://egypt-trip.cc/2012/Flora/1/thumbs/DSC00123.JPG" thumbnailWidth="240" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/2/album.rss" title="2" thumbnail="https://egypt-trip.cc/2012/Flora/2/thumbs/DSC00090.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/Alhagi%20maurorum/album.rss" title="Alhagi maurorum" thumbnail="https://egypt-trip.cc/2012/Flora/Alhagi%20maurorum/thumbs/DSC00510.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/Bougainvillea%20glabra%20f.%20alba/album.rss" title="Bougainvillea glabra f. alba" thumbnail="https://egypt-trip.cc/2012/Flora/Bougainvillea%20glabra%20f.%20alba/thumbs/DSC00002.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/Calystegia%20soldanella/album.rss" title="Calystegia soldanella" thumbnail="https://egypt-trip.cc/2012/Flora/Calystegia%20soldanella/thumbs/DSC00119.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/Carissa%20macrocarpa/album.rss" title="Carissa macrocarpa" thumbnail="https://egypt-trip.cc/2012/Flora/Carissa%20macrocarpa/thumbs/DSC00126.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/album.rss" title="Catharanthus roseus" thumbnail="https://egypt-trip.cc/2012/Flora/Catharanthus%20roseus/thumbs/DSC00047.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/album.rss" title="Euphorbia lactea" thumbnail="https://egypt-trip.cc/2012/Flora/Euphorbia%20lactea/thumbs/DSC00129.JPG" thumbnailWidth="240" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/Hibiscus%20rosa-sinensis/album.rss" title="Hibiscus rosa-sinensis" thumbnail="https://egypt-trip.cc/2012/Flora/Hibiscus%20rosa-sinensis/thumbs/DSC00007.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/album.rss" title="Lampranthus glaucus" thumbnail="https://egypt-trip.cc/2012/Flora/Lampranthus%20glaucus/thumbs/DSC00026.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/album.rss" title="Ocimum basilicum" thumbnail="https://egypt-trip.cc/2012/Flora/Ocimum%20basilicum/thumbs/DSC00519.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/Spathodea%20campanulata/album.rss" title="Spathodea campanulata" thumbnail="https://egypt-trip.cc/2012/Flora/Spathodea%20campanulata/thumbs/DSC00098.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/album.rss" title="Thevetia nereifolia" thumbnail="https://egypt-trip.cc/2012/Flora/Thevetia%20nereifolia/thumbs/DSC00111.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/Zygophyllum%20coccineum/album.rss" title="Zygophyllum coccineum" thumbnail="https://egypt-trip.cc/2012/Flora/Zygophyllum%20coccineum/thumbs/DSC00116.JPG" thumbnailWidth="427" thumbnailHeight="320" />
         <item>
             <title>DSC00005</title>
-            <link>http://egypt-trip.cc/2012/Flora/slides/DSC00005.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:24:52 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/slides/DSC00005.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/thumbs/DSC00005.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/slides/DSC00005.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/thumbs/DSC00005.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/slides/DSC00005.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 11:55:18 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00005.JPG</guid>
         </item>
         <item>
             <title>DSC00014</title>
-            <link>http://egypt-trip.cc/2012/Flora/slides/DSC00014.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:24:52 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/slides/DSC00014.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/thumbs/DSC00014.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/slides/DSC00014.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/thumbs/DSC00014.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/slides/DSC00014.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 11:59:44 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00014.JPG</guid>
         </item>
         <item>
             <title>DSC00036</title>
-            <link>http://egypt-trip.cc/2012/Flora/slides/DSC00036.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:24:52 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/slides/DSC00036.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/thumbs/DSC00036.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/slides/DSC00036.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/thumbs/DSC00036.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/slides/DSC00036.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 11:12:57 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00036.JPG</guid>
         </item>
         <item>
             <title>DSC00037</title>
-            <link>http://egypt-trip.cc/2012/Flora/slides/DSC00037.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:24:52 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/slides/DSC00037.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/thumbs/DSC00037.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/slides/DSC00037.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/thumbs/DSC00037.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/slides/DSC00037.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 11:13:10 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00037.JPG</guid>
         </item>
         <item>
             <title>DSC00039</title>
-            <link>http://egypt-trip.cc/2012/Flora/slides/DSC00039.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:24:52 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/slides/DSC00039.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/thumbs/DSC00039.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/slides/DSC00039.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/thumbs/DSC00039.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/slides/DSC00039.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 11:13:56 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00039.JPG</guid>
         </item>
         <item>
             <title>DSC00045</title>
-            <link>http://egypt-trip.cc/2012/Flora/slides/DSC00045.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:24:52 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/slides/DSC00045.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/thumbs/DSC00045.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/slides/DSC00045.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/thumbs/DSC00045.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/slides/DSC00045.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 11:25:03 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00045.JPG</guid>
         </item>
         <item>
             <title>DSC00059</title>
-            <link>http://egypt-trip.cc/2012/Flora/slides/DSC00059.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:24:52 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/slides/DSC00059.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/thumbs/DSC00059.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/slides/DSC00059.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/thumbs/DSC00059.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/slides/DSC00059.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 14:20:47 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00059.JPG</guid>
         </item>
         <item>
             <title>DSC00060</title>
-            <link>http://egypt-trip.cc/2012/Flora/slides/DSC00060.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:24:52 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/slides/DSC00060.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/thumbs/DSC00060.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/slides/DSC00060.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/thumbs/DSC00060.JPG" width="240" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/slides/DSC00060.JPG" width="563" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 14:21:09 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00060.JPG</guid>
         </item>
         <item>
             <title>DSC00061</title>
-            <link>http://egypt-trip.cc/2012/Flora/slides/DSC00061.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:24:52 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/slides/DSC00061.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/thumbs/DSC00061.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/slides/DSC00061.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/thumbs/DSC00061.JPG" width="240" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/slides/DSC00061.JPG" width="563" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 14:21:50 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00061.JPG</guid>
         </item>
         <item>
             <title>DSC00062</title>
-            <link>http://egypt-trip.cc/2012/Flora/slides/DSC00062.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:24:52 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/slides/DSC00062.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/thumbs/DSC00062.JPG" width="270" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/slides/DSC00062.JPG" width="1260" height="1680"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/thumbs/DSC00062.JPG" width="240" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/slides/DSC00062.JPG" width="563" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 14:22:04 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00062.JPG</guid>
         </item>
         <item>
             <title>DSC00137</title>
-            <link>http://egypt-trip.cc/2012/Flora/slides/DSC00137.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:24:52 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/slides/DSC00137.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/thumbs/DSC00137.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/slides/DSC00137.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/thumbs/DSC00137.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/slides/DSC00137.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 18:07:29 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00137.JPG</guid>
         </item>
         <item>
             <title>DSC00502</title>
-            <link>http://egypt-trip.cc/2012/Flora/slides/DSC00502.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:24:52 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/slides/DSC00502.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/thumbs/DSC00502.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/slides/DSC00502.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/thumbs/DSC00502.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/slides/DSC00502.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Thu, 19 Jan 2012 14:02:29 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00502.JPG</guid>
         </item>
         <item>
             <title>DSC00503</title>
-            <link>http://egypt-trip.cc/2012/Flora/slides/DSC00503.JPG</link>
-            <pubDate>Sat, 11 Jan 2020 17:24:52 +0200</pubDate>
+            <link>https://egypt-trip.cc/2012/Flora/slides/DSC00503.JPG</link>
+            <pubDate>Thu, 09 Jan 2020 19:47:15 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="http://egypt-trip.cc/2012/Flora/thumbs/DSC00503.JPG" width="480" height="360"/>
-            <media:content type="image/jpeg" url="http://egypt-trip.cc/2012/Flora/slides/DSC00503.JPG" width="1680" height="1260"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Flora/thumbs/DSC00503.JPG" width="427" height="320"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Flora/slides/DSC00503.JPG" width="1000" height="750"/>
             <jalbum:exif originalDate="Thu, 19 Jan 2012 14:03:58 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00503.JPG</guid>
         </item>
