@@ -1,4 +1,4 @@
-/* jAlbum 20.2.7 with Pluto 30, Light style, album creation date 7/10/20, 11:09 PM */
+/* jAlbum 20.2.7 with Pluto 30, Light style, album creation date 7/10/20, 11:22 PM */
 html, body {
 	height: 100%;
 	margin: 0px;
@@ -237,6 +237,13 @@ video {
 }
 .pl-foldercomment a {
 	text-decoration: underline;
+}
+.pl-fcount {
+	font-size: 12px;
+	font-weight: normal;
+	font-style: italic;
+	font-variant: normal;
+	text-shadow: none;
 }
 .pl-imagetitle {
 	font-size: 12px;
