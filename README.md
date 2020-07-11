@@ -8,11 +8,16 @@ Egypt Journey. Winter 2012.
 2019: Nature, Flora, Birds, Hurgada, Karnak temple, Nile river, Snorkling and Fishing.
 2012: Abstract, Canyon, Fauna, Flora.
 
+* tags: `#birds`, `#flora`, `#hurgada`, `#karnak temple`, `#nile river`, `#snorkling`, `#fishing`, `#abstract`, `#abstract`, `#canyon`, `#fauna`, `#russia`, `#nature`, `#photo`, `#journey`
+
 # Release
 
 Published to:
+
 https://egypt-trip.cc/
+
 https://egypt-trip.github.io/
+
 
 # License
 
