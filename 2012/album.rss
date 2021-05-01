@@ -8,18 +8,18 @@
         <generator>jAlbum 23.2</generator>
    		<description>Nature, Flora, Birds, Karnak temple, Nile river, Snorkling and Fishing.</description>
         <jalbum:absolutePath>https://egypt-trip.cc/2012/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Abstract/album.rss" title="Abstract" thumbnail="https://egypt-trip.cc/2012/Abstract/thumbs/DSC00001.JPG" thumbnailWidth="427" thumbnailHeight="320" />
-    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Canyon/album.rss" title="Canyon" thumbnail="https://egypt-trip.cc/2012/Canyon/thumbs/DSC00229.JPG" thumbnailWidth="240" thumbnailHeight="320" />
-    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Fauna/album.rss" title="Fauna" thumbnail="https://egypt-trip.cc/2012/Fauna/thumbs/DSC00115.JPG" thumbnailWidth="240" thumbnailHeight="320" />
-    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/album.rss" title="Flora" thumbnail="https://egypt-trip.cc/2012/Flora/Spathodea%20campanulata/thumbs/DSC00098.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Abstract/album.rss" title="Abstract" thumbnail="https://egypt-trip.cc/2012/Abstract/thumbs/DSC00001.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Canyon/album.rss" title="Canyon" thumbnail="https://egypt-trip.cc/2012/Canyon/thumbs/DSC00229.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Fauna/album.rss" title="Fauna" thumbnail="https://egypt-trip.cc/2012/Fauna/thumbs/DSC00115.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Flora/album.rss" title="Flora" thumbnail="https://egypt-trip.cc/2012/Flora/Spathodea%20campanulata/thumbs/DSC00098.JPG" thumbnailWidth="480" thumbnailHeight="360" />
         <item>
             <title>DSC00002</title>
             <link>https://egypt-trip.cc/2012/slides/DSC00002.JPG</link>
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00002.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00002.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00002.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00002.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Sun, 15 Jan 2012 17:04:24 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00002.JPG</guid>
         </item>
@@ -29,8 +29,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00004.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00004.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00004.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00004.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Sun, 15 Jan 2012 17:18:15 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00004.JPG</guid>
         </item>
@@ -40,8 +40,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00006.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00006.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00006.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00006.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Sun, 15 Jan 2012 17:18:33 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00006.JPG</guid>
         </item>
@@ -51,8 +51,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00016.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00016.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00016.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00016.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Sun, 15 Jan 2012 16:44:51 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00016.JPG</guid>
         </item>
@@ -62,8 +62,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00024.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00024.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00024.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00024.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Sun, 15 Jan 2012 19:11:09 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00024.JPG</guid>
         </item>
@@ -73,8 +73,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00024_.jpg" width="480" height="193"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00024_.jpg" width="1600" height="642"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00024_.jpg" width="500" height="201"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00024_.jpg" width="1680" height="674"/>
             <jalbum:exif originalDate="Sun, 15 Jan 2012 19:11:09 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00024_.jpg</guid>
         </item>
@@ -84,8 +84,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00025.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00025.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00025.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00025.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Sun, 15 Jan 2012 19:00:03 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00025.JPG</guid>
         </item>
@@ -95,8 +95,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00028.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00028.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00028.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00028.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Sun, 15 Jan 2012 17:40:08 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00028.JPG</guid>
         </item>
@@ -106,8 +106,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00029.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00029.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00029.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00029.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 12:18:29 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00029.JPG</guid>
         </item>
@@ -117,8 +117,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00031.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00031.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00031.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00031.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 10:27:11 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00031.JPG</guid>
         </item>
@@ -128,8 +128,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00032.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00032.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00032.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00032.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 10:27:19 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00032.JPG</guid>
         </item>
@@ -139,8 +139,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00050.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00050.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00050.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00050.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 14:16:46 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00050.JPG</guid>
         </item>
@@ -150,8 +150,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00069.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00069.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00069.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00069.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 14:32:23 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00069.JPG</guid>
         </item>
@@ -161,8 +161,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00083.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00083.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00083.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00083.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 14:40:31 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00083.JPG</guid>
         </item>
@@ -172,8 +172,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00086.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00086.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00086.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00086.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 14:43:29 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00086.JPG</guid>
         </item>
@@ -183,8 +183,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00113.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00113.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00113.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00113.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 16:37:43 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00113.JPG</guid>
         </item>
@@ -194,8 +194,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00114.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00114.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00114.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00114.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 16:37:52 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00114.JPG</guid>
         </item>
@@ -205,8 +205,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00131.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00131.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00131.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00131.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 17:02:12 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00131.JPG</guid>
         </item>
@@ -216,8 +216,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00134.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00134.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC00134.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC00134.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Mon, 16 Jan 2012 18:02:58 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC00134.JPG</guid>
         </item>
@@ -227,8 +227,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC09994.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC09994.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC09994.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC09994.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Sun, 15 Jan 2012 16:42:26 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC09994.JPG</guid>
         </item>
@@ -238,8 +238,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC09998.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC09998.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC09998.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC09998.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Sun, 15 Jan 2012 17:03:23 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC09998.JPG</guid>
         </item>
@@ -249,8 +249,8 @@
             <pubDate>Thu, 09 Jan 2020 20:00:40 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC09999.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC09999.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/thumbs/DSC09999.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/slides/DSC09999.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Sun, 15 Jan 2012 17:03:30 +0200" cameraMake="SONY" cameraModel="DSC-T30"/>
             <guid isPermaLink="false">slides/DSC09999.JPG</guid>
         </item>

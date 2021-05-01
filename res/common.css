@@ -1,4 +1,4 @@
-/* jAlbum 23.2.4 with Pluto 43, Light style, album creation date 5/1/21, 9:31 PM */
+/* jAlbum 23.2.4 with Pluto 43, Light style, album creation date 5/1/21, 9:37 PM */
 html, body {
 	height: 100%;
 	margin: 0px;
@@ -169,7 +169,7 @@ video {
 	text-shadow: none;
 	text-align: center;
 	margin: 0px auto 15px;
-	max-width: 937px;
+	max-width: 1200px;
 	padding: 0px 10px;
 }
 .pl-infotxt a {
@@ -183,14 +183,14 @@ video {
 	text-shadow: none;
 	text-align: center;
 	margin: 0px auto 10px;
-	max-width: 937px;
+	max-width: 1200px;
 	padding: 0px 10px;
 }
 .pl-infotxtbottom a {
 	text-decoration: underline;
 }
 .pl-thumbbox, .pl-fthumbbox {
-	max-width: 1250px;
+	max-width: 1600px;
 	margin: 0 auto 10px;
 	padding: 0px 43px;
 }
@@ -211,10 +211,10 @@ video {
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	margin-top: -107px !important;
-	margin-left: -107px !important;
-	width: 214px;
-	height: 214px;
+	margin-top: -120px !important;
+	margin-left: -120px !important;
+	width: 241px;
+	height: 241px;
 }
 .pl-thumbcaption, .pl-fthumbcaption {
 	overflow-wrap: break-word;
@@ -390,7 +390,7 @@ video {
 	padding: 15px 20px 20px;
 }
 .pl-ipbox > div {
-	max-width: 1240px;
+	max-width: 1590px;
 	margin: 0px auto;
 }
 .pl-ipbox > div > div {

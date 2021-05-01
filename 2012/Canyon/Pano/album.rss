@@ -14,8 +14,8 @@
             <pubDate>Thu, 09 Jan 2020 19:47:14 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/Canyon/Pano/thumbs/desert_1_pano.jpg" width="480" height="192"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Canyon/Pano/slides/desert_1_pano.jpg" width="1600" height="209"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Canyon/Pano/thumbs/desert_1_pano.jpg" width="500" height="65"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Canyon/Pano/slides/desert_1_pano.jpg" width="1680" height="220"/>
             <guid isPermaLink="false">slides/desert_1_pano.jpg</guid>
         </item>
         <item>
@@ -24,8 +24,8 @@
             <pubDate>Thu, 09 Jan 2020 19:47:14 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="https://egypt-trip.cc/2012/Canyon/Pano/thumbs/desert_canyon_1_pano.jpg" width="480" height="192"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Canyon/Pano/slides/desert_canyon_1_pano.jpg" width="1600" height="259"/>
+            <media:thumbnail url="https://egypt-trip.cc/2012/Canyon/Pano/thumbs/desert_canyon_1_pano.jpg" width="500" height="81"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/2012/Canyon/Pano/slides/desert_canyon_1_pano.jpg" width="1680" height="272"/>
             <guid isPermaLink="false">slides/desert_canyon_1_pano.jpg</guid>
         </item>
     </channel>

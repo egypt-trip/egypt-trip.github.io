@@ -10,21 +10,21 @@
 Egypt Journey. Winter 2012.
 Nature, Flora, Birds, Karnak temple, Nile river, Snorkling and Fishing.</description>
         <jalbum:absolutePath>https://egypt-trip.cc/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/album.rss" title="Egypt Journey. Winter 2012." thumbnail="https://egypt-trip.cc/2012/Canyon/thumbs/DSC00229.JPG" thumbnailWidth="240" thumbnailHeight="320" />
-    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Birds/album.rss" title="Birds" thumbnail="https://egypt-trip.cc/Birds/Common%20ostrich%20%28Struthio%20camelus%29/thumbs/00DSC04909.JPG" thumbnailWidth="427" thumbnailHeight="320" />
-    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Flora/album.rss" title="Flora" thumbnail="https://egypt-trip.cc/Flora/Crown%20of%20thorns%20%28Euphorbia%20milii%29/thumbs/DSC04831.JPG" thumbnailWidth="427" thumbnailHeight="320" />
-    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Hurgada/album.rss" title="Hurgada" thumbnail="https://egypt-trip.cc/Hurgada/thumbs/DSC04895.JPG" thumbnailWidth="427" thumbnailHeight="320" />
-    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Karnak%20temple/album.rss" title="Karnak temple" thumbnail="https://egypt-trip.cc/Karnak%20temple/thumbs/DSC04974.JPG" thumbnailWidth="240" thumbnailHeight="320" />
-    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Nile%20river/album.rss" title="Nile river" thumbnail="https://egypt-trip.cc/Nile%20river/thumbs/DSC05021.JPG" thumbnailWidth="427" thumbnailHeight="320" />
-    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Snorkling%20and%20Fishing/album.rss" title="Snorkling and Fishing" thumbnail="https://egypt-trip.cc/Snorkling%20and%20Fishing/thumbs/DSC04926.JPG" thumbnailWidth="427" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/album.rss" title="Egypt Journey. Winter 2012." thumbnail="https://egypt-trip.cc/2012/Canyon/thumbs/DSC00229.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Birds/album.rss" title="Birds" thumbnail="https://egypt-trip.cc/Birds/Common%20ostrich%20%28Struthio%20camelus%29/thumbs/00DSC04909.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Flora/album.rss" title="Flora" thumbnail="https://egypt-trip.cc/Flora/Crown%20of%20thorns%20%28Euphorbia%20milii%29/thumbs/DSC04831.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Hurgada/album.rss" title="Hurgada" thumbnail="https://egypt-trip.cc/Hurgada/thumbs/DSC04895.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Karnak%20temple/album.rss" title="Karnak temple" thumbnail="https://egypt-trip.cc/Karnak%20temple/thumbs/DSC04974.JPG" thumbnailWidth="270" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Nile%20river/album.rss" title="Nile river" thumbnail="https://egypt-trip.cc/Nile%20river/thumbs/DSC05021.JPG" thumbnailWidth="480" thumbnailHeight="360" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/Snorkling%20and%20Fishing/album.rss" title="Snorkling and Fishing" thumbnail="https://egypt-trip.cc/Snorkling%20and%20Fishing/thumbs/DSC04926.JPG" thumbnailWidth="480" thumbnailHeight="360" />
         <item>
             <title>DSC04849</title>
             <link>https://egypt-trip.cc/slides/DSC04849.JPG</link>
             <pubDate>Thu, 09 Jan 2020 18:06:16 +0200</pubDate>
             <description>                               </description>
             <media:description type="html">                               </media:description>
-            <media:thumbnail url="https://egypt-trip.cc/thumbs/DSC04849.JPG" width="427" height="320"/>
-            <media:content type="image/jpeg" url="https://egypt-trip.cc/slides/DSC04849.JPG" width="1000" height="750"/>
+            <media:thumbnail url="https://egypt-trip.cc/thumbs/DSC04849.JPG" width="480" height="360"/>
+            <media:content type="image/jpeg" url="https://egypt-trip.cc/slides/DSC04849.JPG" width="1680" height="1260"/>
             <jalbum:exif originalDate="Wed, 25 Dec 2019 11:34:48 +0200" cameraMake="SONY" cameraModel="DSC-HX90V"/>
             <guid isPermaLink="false">slides/DSC04849.JPG</guid>
         </item>
