@@ -3,10 +3,10 @@
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:jalbum="http://jalbum.net/jalbumrss">
     <channel>
-        <title>2012</title>
+        <title>Egypt Journey. Winter 2012.</title>
    	<link>..</link>
-        <generator>jAlbum 20.2</generator>
-   		<description></description>
+        <generator>jAlbum 23.2</generator>
+   		<description>Nature, Flora, Birds, Karnak temple, Nile river, Snorkling and Fishing.</description>
         <jalbum:absolutePath>https://egypt-trip.cc/2012/</jalbum:absolutePath>
     	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Abstract/album.rss" title="Abstract" thumbnail="https://egypt-trip.cc/2012/Abstract/thumbs/DSC00001.JPG" thumbnailWidth="427" thumbnailHeight="320" />
     	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/Canyon/album.rss" title="Canyon" thumbnail="https://egypt-trip.cc/2012/Canyon/thumbs/DSC00229.JPG" thumbnailWidth="240" thumbnailHeight="320" />

@@ -5,12 +5,12 @@
     <channel>
         <title>Egypt 2012, 2019: Boris Melikian Expeditions Collection.</title>
    	<link>.</link>
-        <generator>jAlbum 20.2</generator>
+        <generator>jAlbum 23.2</generator>
    		<description>Egypt Journey. Winter 2019.
 Egypt Journey. Winter 2012.
 Nature, Flora, Birds, Karnak temple, Nile river, Snorkling and Fishing.</description>
         <jalbum:absolutePath>https://egypt-trip.cc/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/album.rss" title="2012" thumbnail="https://egypt-trip.cc/2012/Canyon/thumbs/DSC00229.JPG" thumbnailWidth="240" thumbnailHeight="320" />
+    	<jalbum:link rel="sub" href="https://egypt-trip.cc/2012/album.rss" title="Egypt Journey. Winter 2012." thumbnail="https://egypt-trip.cc/2012/Canyon/thumbs/DSC00229.JPG" thumbnailWidth="240" thumbnailHeight="320" />
     	<jalbum:link rel="sub" href="https://egypt-trip.cc/Birds/album.rss" title="Birds" thumbnail="https://egypt-trip.cc/Birds/Common%20ostrich%20%28Struthio%20camelus%29/thumbs/00DSC04909.JPG" thumbnailWidth="427" thumbnailHeight="320" />
     	<jalbum:link rel="sub" href="https://egypt-trip.cc/Flora/album.rss" title="Flora" thumbnail="https://egypt-trip.cc/Flora/Crown%20of%20thorns%20%28Euphorbia%20milii%29/thumbs/DSC04831.JPG" thumbnailWidth="427" thumbnailHeight="320" />
     	<jalbum:link rel="sub" href="https://egypt-trip.cc/Hurgada/album.rss" title="Hurgada" thumbnail="https://egypt-trip.cc/Hurgada/thumbs/DSC04895.JPG" thumbnailWidth="427" thumbnailHeight="320" />
